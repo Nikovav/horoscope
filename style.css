@@ -1,0 +1,28 @@
+
+body {
+    font-family: sans-serif;
+    vertical-align: top;
+    background-color: peachpuff;
+}
+button {
+    width: 60px;
+    color: black;
+
+}
+#myId {
+    color: yellow;
+}
+
+.fontLarge{
+    font-size: 14px;
+}
+p.center {
+    text-align: center;
+    color: red;
+}
+h1, h2, p {
+    text-align: right;
+    text-weight: bold;
+}
+
+
